@@ -28,7 +28,7 @@ Looking for more help?
 .. _developer docs: DEVELOP.rst
 .. _support channels: https://crate.io/support/
 .. _Sphinx: http://www.sphinx-doc.org/en/master/
-.. _project docs: https://crate.io/docs/cloud/en/latest/
+.. _project docs: https://crate.io/docs/cloud/console/en/latest/
 
 .. |build-status| image:: https://api.travis-ci.org/crate/cloud-docs.svg?branch=master
     :alt: build status
