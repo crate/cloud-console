@@ -1,0 +1,30 @@
+.. _create_account-install_croud:
+
+=============================================
+Create User Account and Install CrateDB Croud
+=============================================
+
+This section helps you to get started with CrateDB Cloud.
+
+In this section, we show you how to install and run CrateDB.
+
+.. CAUTION::
+
+   These instructions are designed to get you up and running on your personal
+   computer.
+
+   For putting CrateDB into production, you can learn more about
+   `deploying`_ or `scaling`_ CrateDB in the `CrateDB Guide`_.
+
+.. _CrateDB Guide: https://crate.io/docs/crate/guide/en/latest/
+.. _deploying: https://crate.io/docs/crate/guide/en/latest/deployment/index.html
+.. _scaling: https://crate.io/docs/crate/guide/en/latest/scaling/index.html
+
+.. rubric:: Table of contents
+
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+
+   basic
+   special/index
