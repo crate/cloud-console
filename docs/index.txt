@@ -21,3 +21,17 @@ This step-by-step tutorial will show you how to:
   projects, resource etc.
 - Create an organization
 - Deploy your first CrateDB cluster
+
+.. NOTE::
+
+   This is beginner documentation.
+
+   .. rubric:: Table of contents
+
+   .. toctree::
+      :maxdepth: 3
+      :titlesonly:
+
+      create_account-install/index
+      deploy_first_cratedb_instance/index
+      management_tools/index
